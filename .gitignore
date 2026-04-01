@@ -37,9 +37,11 @@ env/
 .DS_Store
 Thumbs.db
 
-# Data files (large)
+# Data files (large) - but keep in data folder
 *.csv
 *.json
+!data/*.csv
+!data/*.json
 
 # Keep example data
 !example_data/

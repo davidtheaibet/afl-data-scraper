@@ -1,0 +1,658 @@
+round,date,match,venue
+Thu 5 Mar 7:30pm,"Sydney
+v 
+Carlton",SCG,40372
+Fri 6 Mar 7:05pm,"Gold Coast
+v 
+Geelong",People First Stadium,19859
+Sat 7 Mar 4:15pm,"GWS
+v 
+Hawthorn",ENGIE Stadium,16157
+Sat 7 Mar 6:35pm,"Brisbane
+v 
+Western Bulldogs",Gabba,31606
+Sun 8 Mar 7:20pm,"St Kilda
+v 
+Collingwood",MCG,82528
+,Adelaide,BYE,
+,Essendon,BYE,
+,Fremantle,BYE,
+,Melbourne,BYE,
+,North Melbourne,BYE,
+,Port Adelaide,BYE,
+,Richmond,BYE,
+,West Coast,BYE,
+Thu 12 Mar 7:30pm,"Carlton
+v 
+Richmond",MCG,74313
+Fri 13 Mar 7:40pm,"Essendon
+v 
+Hawthorn",MCG,71384
+Sat 14 Mar 1:15pm,"Western Bulldogs
+v 
+GWS",Marvel Stadium,28318
+Sat 14 Mar 4:15pm,"Geelong
+v 
+Fremantle",GMHBA Stadium,28715
+Sat 14 Mar 7:10pm,"Sydney
+v 
+Brisbane",SCG,38128
+Sat 14 Mar 7:35pm,"Collingwood
+v 
+Adelaide",MCG,62482
+Sun 15 Mar 1:10pm,"North Melbourne
+v 
+Port Adelaide",Marvel Stadium,23318
+Sun 15 Mar 3:15pm,"Melbourne
+v 
+St Kilda",MCG,44577
+Sun 15 Mar 5:10pm,"Gold Coast
+v 
+West Coast",People First Stadium,13309
+Thu 19 Mar 7:30pm,"Hawthorn
+v 
+Sydney",MCG,47945
+Fri 20 Mar 7:10pm,"Adelaide
+v 
+Western Bulldogs",Adelaide Oval,49185
+Sat 21 Mar 1:15pm,"Richmond
+v 
+Gold Coast",MCG,30468
+Sat 21 Mar 4:15pm,"GWS
+v 
+St Kilda",ENGIE Stadium,9149
+Sat 21 Mar 4:35pm,"Fremantle
+v 
+Melbourne",Optus Stadium,44736
+Sun 22 Mar 2:45pm,"Port Adelaide
+v 
+Essendon",Adelaide Oval,36049
+Sun 22 Mar 3:10pm,"West Coast
+v 
+North Melbourne",Optus Stadium,47083
+,Carlton,BYE,
+,Collingwood,BYE,
+,Geelong,BYE,
+,Brisbane,BYE,
+Thu 26 Mar 7:30pm,"Geelong
+v 
+Adelaide",GMHBA Stadium,20403
+Fri 27 Mar 7:40pm,"Collingwood
+v 
+GWS",Marvel Stadium,41607
+Sat 28 Mar 12:35pm,"St Kilda
+v 
+Brisbane",Marvel Stadium,31854
+Sat 28 Mar 1:15pm,"Fremantle
+v 
+Richmond",Optus Stadium,35245
+Sat 28 Mar 7:35pm,"Essendon
+v 
+North Melbourne",Marvel Stadium,40154
+Sun 29 Mar 12:00pm,"Port Adelaide
+v 
+West Coast",Adelaide Oval,33754
+Sun 29 Mar 3:15pm,"Carlton
+v 
+Melbourne",MCG,67763
+,Western Bulldogs,BYE,
+,Hawthorn,BYE,
+,Sydney,BYE,
+,Gold Coast,BYE,
+Thu 2 Apr 6:30pm,"Brisbane
+v 
+Collingwood",Gabba,
+Fri 3 Apr 3:15pm,"North Melbourne
+v 
+Carlton",Marvel Stadium,
+Fri 3 Apr 6:45pm,"Adelaide
+v 
+Fremantle",Adelaide Oval,
+Sat 4 Apr 4:15pm,"Richmond
+v 
+Port Adelaide",MCG,
+Sat 4 Apr 4:35pm,"West Coast
+v 
+Sydney",Optus Stadium,
+Sun 5 Apr 3:15pm,"Melbourne
+v 
+Gold Coast",MCG,
+Sun 5 Apr 7:20pm,"Western Bulldogs
+v 
+Essendon",Marvel Stadium,
+Mon 6 Apr 3:15pm,"Hawthorn
+v 
+Geelong",MCG,
+,St Kilda,BYE,
+,GWS,BYE,
+Thu 9 Apr 7:10pm,"Adelaide
+v 
+Carlton",Adelaide Oval,
+Fri 10 Apr 7:10pm,"Collingwood
+v 
+Fremantle",Adelaide Oval,
+Sat 11 Apr 12:05pm,"North Melbourne
+v 
+Brisbane",Barossa Park,
+Sat 11 Apr 12:45pm,"Essendon
+v 
+Melbourne",Adelaide Oval,
+Sat 11 Apr 3:45pm,"Sydney
+v 
+Gold Coast",Norwood Oval,
+Sat 11 Apr 7:05pm,"Hawthorn
+v 
+Western Bulldogs",Adelaide Oval,
+Sun 12 Apr 12:00pm,"Geelong
+v 
+West Coast",Norwood Oval,
+Sun 12 Apr 2:45pm,"GWS
+v 
+Richmond",Barossa Park,
+Sun 12 Apr 6:45pm,"Port Adelaide
+v 
+St Kilda",Adelaide Oval,
+Thu 16 Apr 7:30pm,"Carlton
+v 
+Collingwood",MCG,
+Fri 17 Apr 7:20pm,"Geelong
+v 
+Western Bulldogs",GMHBA Stadium,
+Fri 17 Apr 7:50pm,"Sydney
+v 
+GWS",SCG,
+Sat 18 Apr 1:15pm,"Gold Coast
+v 
+Essendon",People First Stadium,
+Sat 18 Apr 4:15pm,"Hawthorn
+v 
+Port Adelaide",Marvel Stadium,
+Sat 18 Apr 7:05pm,"Adelaide
+v 
+St Kilda",Adelaide Oval,
+Sun 19 Apr 1:10pm,"North Melbourne
+v 
+Richmond",Marvel Stadium,
+Sun 19 Apr 3:10pm,"West Coast
+v 
+Fremantle",Optus Stadium,
+Sun 19 Apr 3:15pm,"Melbourne
+v 
+Brisbane",MCG,
+Thu 23 Apr 7:30pm,"Western Bulldogs
+v 
+Sydney",Marvel Stadium,
+Fri 24 Apr 7:40pm,"Richmond
+v 
+Melbourne",MCG,
+Sat 25 Apr 12:15pm,"Hawthorn
+v 
+Gold Coast",UTAS Stadium,
+Sat 25 Apr 3:15pm,"Essendon
+v 
+Collingwood",MCG,
+Sat 25 Apr 6:05pm,"Port Adelaide
+v 
+Geelong",Adelaide Oval,
+Sat 25 Apr 6:15pm,"Fremantle
+v 
+Carlton",Optus Stadium,
+Sun 26 Apr 1:10pm,"St Kilda
+v 
+West Coast",Marvel Stadium,
+Sun 26 Apr 3:15pm,"Brisbane
+v 
+Adelaide",Gabba,
+Sun 26 Apr 4:40pm,"GWS
+v 
+North Melbourne",Manuka Oval,
+Thu 30 Apr 7:30pm,"Collingwood
+v 
+Hawthorn",MCG,
+Fri 1 May 7:30pm,"Western Bulldogs
+v 
+Fremantle",Marvel Stadium,
+Fri 1 May 7:40pm,"Adelaide
+v 
+Port Adelaide",Adelaide Oval,
+Sat 2 May 12:35pm,"Essendon
+v 
+Brisbane",Marvel Stadium,
+Sat 2 May 2:15pm,"West Coast
+v 
+Richmond",Optus Stadium,
+Sat 2 May 4:35pm,"Geelong
+v 
+North Melbourne",GMHBA Stadium,
+Sat 2 May 7:35pm,"Carlton
+v 
+St Kilda",Marvel Stadium,
+Sun 3 May 3:15pm,"Sydney
+v 
+Melbourne",SCG,
+Sun 3 May 7:20pm,"Gold Coast
+v 
+GWS",People First Stadium,
+Thu 7 May 6:10pm,"Fremantle
+v 
+Hawthorn",Optus Stadium,
+Fri 8 May 7:30pm,"Brisbane
+v 
+Carlton",Gabba,
+Fri 8 May 7:40pm,"Port Adelaide
+v 
+Western Bulldogs",Adelaide Oval,
+Sat 9 May 12:35pm,"North Melbourne
+v 
+Sydney",Marvel Stadium,
+Sat 9 May 4:15pm,"GWS
+v 
+Essendon",ENGIE Stadium,
+Sat 9 May 6:40pm,"Gold Coast
+v 
+St Kilda",TIO Stadium,
+Sat 9 May 7:35pm,"Geelong
+v 
+Collingwood",MCG,
+Sun 10 May 1:10pm,"Melbourne
+v 
+West Coast",Marvel Stadium,
+Sun 10 May 3:15pm,"Richmond
+v 
+Adelaide",MCG,
+Thu 14 May 7:30pm,"Brisbane
+v 
+Geelong",Gabba,
+Fri 15 May 7:30pm,"Sydney
+v 
+Collingwood",SCG,
+Fri 15 May 7:40pm,"Gold Coast
+v 
+Port Adelaide",TIO Stadium,
+Sat 16 May 12:45pm,"Adelaide
+v 
+North Melbourne",Adelaide Oval,
+Sat 16 May 4:15pm,"Melbourne
+v 
+Hawthorn",MCG,
+Sat 16 May 7:35pm,"Carlton
+v 
+Western Bulldogs",Marvel Stadium,
+Sun 17 May 1:10pm,"Essendon
+v 
+Fremantle",MCG,
+Sun 17 May 3:15pm,"St Kilda
+v 
+Richmond",Marvel Stadium,
+Sun 17 May 4:15pm,"West Coast
+v 
+GWS",Optus Stadium,
+Thu 21 May 7:30pm,"Hawthorn
+v 
+Adelaide",UTAS Stadium,
+Fri 22 May 6:30pm,"Fremantle
+v 
+St Kilda",Optus Stadium,
+Fri 22 May 7:40pm,"Richmond
+v 
+Essendon",MCG,
+Sat 23 May 1:15pm,"North Melbourne
+v 
+Gold Coast",Marvel Stadium,
+Sat 23 May 4:15pm,"Geelong
+v 
+Sydney",GMHBA Stadium,
+Sat 23 May 4:35pm,"Collingwood
+v 
+West Coast",MCG,
+Sat 23 May 7:05pm,"Port Adelaide
+v 
+Carlton",Adelaide Oval,
+Sun 24 May 12:30pm,"GWS
+v 
+Brisbane",ENGIE Stadium,
+Sun 24 May 3:15pm,"Western Bulldogs
+v 
+Melbourne",Marvel Stadium,
+Thu 28 May 7:30pm,"St Kilda
+v 
+Hawthorn",Marvel Stadium,
+Fri 29 May 7:40pm,"Carlton
+v 
+Geelong",MCG,
+Sat 30 May 1:15pm,"Sydney
+v 
+Richmond",SCG,
+Sat 30 May 4:15pm,"Brisbane
+v 
+Fremantle",Gabba,
+Sat 30 May 7:35pm,"Western Bulldogs
+v 
+Collingwood",Marvel Stadium,
+Sun 31 May 2:45pm,"Melbourne
+v 
+GWS",TIO Traeger Park,
+Sun 31 May 5:20pm,"West Coast
+v 
+Essendon",Optus Stadium,
+,Adelaide,BYE,
+,North Melbourne,BYE,
+,Port Adelaide,BYE,
+,Gold Coast,BYE,
+Thu 4 Jun 7:00pm,"Adelaide
+v 
+Geelong",Adelaide Oval,
+Fri 5 Jun 7:40pm,"Hawthorn
+v 
+Western Bulldogs",MCG,
+Sat 6 Jun 12:15pm,"North Melbourne
+v 
+Fremantle",Hands Oval,
+Sat 6 Jun 5:15pm,"Gold Coast
+v 
+Brisbane",People First Stadium,
+Sat 6 Jun 6:15pm,"West Coast
+v 
+Port Adelaide",Optus Stadium,
+Sun 7 Jun 3:15pm,"Sydney
+v 
+St Kilda",SCG,
+Sun 7 Jun 7:20pm,"Essendon
+v 
+Carlton",MCG,
+Mon 8 Jun 3:15pm,"Collingwood
+v 
+Melbourne",MCG,
+,Richmond,BYE,
+,GWS,BYE,
+Thu 11 Jun 7:30pm,"Western Bulldogs
+v 
+Adelaide",Marvel Stadium,
+Fri 12 Jun 7:40pm,"Geelong
+v 
+Gold Coast",GMHBA Stadium,
+Sat 13 Jun 1:15pm,"Melbourne
+v 
+Essendon",MCG,
+Sat 13 Jun 2:15pm,"North Melbourne
+v 
+West Coast",Optus Stadium,
+Sat 13 Jun 7:05pm,"Port Adelaide
+v 
+Sydney",Adelaide Oval,
+Sun 14 Jun 1:10pm,"Richmond
+v 
+Brisbane",Ninja Stadium,
+Sun 14 Jun 3:15pm,"St Kilda
+v 
+GWS",Marvel Stadium,
+,Carlton,BYE,
+,Collingwood,BYE,
+,Fremantle,BYE,
+,Hawthorn,BYE,
+Thu 18 Jun 6:10pm,"Fremantle
+v 
+Geelong",Optus Stadium,
+Fri 19 Jun 7:40pm,"Gold Coast
+v 
+Hawthorn",People First Stadium,
+Sat 20 Jun 12:45pm,"Adelaide
+v 
+Melbourne",Adelaide Oval,
+Sat 20 Jun 4:15pm,"GWS
+v 
+Carlton",ENGIE Stadium,
+Sat 20 Jun 7:35pm,"Collingwood
+v 
+Port Adelaide",MCG,
+Sun 21 Jun 1:10pm,"Richmond
+v 
+North Melbourne",MCG,
+Sun 21 Jun 3:15pm,"St Kilda
+v 
+Western Bulldogs",Marvel Stadium,
+,Essendon,BYE,
+,Sydney,BYE,
+,West Coast,BYE,
+,Brisbane,BYE,
+Sat 27 Jun 12:00pm,"Brisbane
+v 
+Sydney",Gabba,
+Sat 27 Jun 12:00pm,"Carlton
+v 
+West Coast",Marvel Stadium,
+Sat 27 Jun 12:00pm,"Collingwood
+v 
+Richmond",MCG,
+Sat 27 Jun 12:00pm,"Hawthorn
+v 
+GWS",MCG,
+Sat 27 Jun 12:00pm,"North Melbourne
+v 
+Essendon",Marvel Stadium,
+Sat 27 Jun 12:00pm,"Port Adelaide
+v 
+Adelaide",Adelaide Oval,
+Sat 27 Jun 12:00pm,"Fremantle
+v 
+Gold Coast",Optus Stadium,
+,Western Bulldogs,BYE,
+,Geelong,BYE,
+,Melbourne,BYE,
+,St Kilda,BYE,
+Sat 4 Jul 12:00pm,"Essendon
+v 
+St Kilda",Marvel Stadium,
+Sat 4 Jul 12:00pm,"Geelong
+v 
+Brisbane",GMHBA Stadium,
+Sat 4 Jul 12:00pm,"Gold Coast
+v 
+Collingwood",People First Stadium,
+Sat 4 Jul 12:00pm,"GWS
+v 
+Fremantle",Manuka Oval,
+Sat 4 Jul 12:00pm,"Hawthorn
+v 
+Melbourne",UTAS Stadium,
+Sat 4 Jul 12:00pm,"Richmond
+v 
+Carlton",MCG,
+Sat 4 Jul 12:00pm,"Sydney
+v 
+Western Bulldogs",SCG,
+Sat 4 Jul 12:00pm,"Port Adelaide
+v 
+North Melbourne",Adelaide Oval,
+Sat 4 Jul 12:00pm,"West Coast
+v 
+Adelaide",Optus Stadium,
+Sat 11 Jul 12:00pm,"Brisbane
+v 
+Essendon",Gabba,
+Sat 11 Jul 12:00pm,"Carlton
+v 
+Hawthorn",MCG,
+Sat 11 Jul 12:00pm,"Collingwood
+v 
+North Melbourne",Marvel Stadium,
+Sat 11 Jul 12:00pm,"GWS
+v 
+Geelong",ENGIE Stadium,
+Sat 11 Jul 12:00pm,"Melbourne
+v 
+Richmond",MCG,
+Sat 11 Jul 12:00pm,"St Kilda
+v 
+Port Adelaide",Marvel Stadium,
+Sat 11 Jul 12:00pm,"Western Bulldogs
+v 
+West Coast",Marvel Stadium,
+Sat 11 Jul 12:00pm,"Adelaide
+v 
+Gold Coast",Adelaide Oval,
+Sat 11 Jul 12:00pm,"Fremantle
+v 
+Sydney",Optus Stadium,
+Sat 18 Jul 12:00pm,"Collingwood
+v 
+Carlton",MCG,
+Sat 18 Jul 12:00pm,"Essendon
+v 
+GWS",Marvel Stadium,
+Sat 18 Jul 12:00pm,"Geelong
+v 
+St Kilda",GMHBA Stadium,
+Sat 18 Jul 12:00pm,"Gold Coast
+v 
+Western Bulldogs",People First Stadium,
+Sat 18 Jul 12:00pm,"North Melbourne
+v 
+Melbourne",Marvel Stadium,
+Sat 18 Jul 12:00pm,"Richmond
+v 
+Hawthorn",MCG,
+Sat 18 Jul 12:00pm,"Sydney
+v 
+Adelaide",SCG,
+Sat 18 Jul 12:00pm,"Port Adelaide
+v 
+Fremantle",Adelaide Oval,
+Sat 18 Jul 12:00pm,"West Coast
+v 
+Brisbane",Optus Stadium,
+Sat 25 Jul 12:00pm,"Brisbane
+v 
+Port Adelaide",Gabba,
+Sat 25 Jul 12:00pm,"Carlton
+v 
+Gold Coast",Marvel Stadium,
+Sat 25 Jul 12:00pm,"GWS
+v 
+Sydney",ENGIE Stadium,
+Sat 25 Jul 12:00pm,"Hawthorn
+v 
+Essendon",MCG,
+Sat 25 Jul 12:00pm,"North Melbourne
+v 
+St Kilda",Marvel Stadium,
+Sat 25 Jul 12:00pm,"Melbourne
+v 
+Geelong",MCG,
+Sat 25 Jul 12:00pm,"Western Bulldogs
+v 
+Richmond",Marvel Stadium,
+Sat 25 Jul 12:00pm,"Adelaide
+v 
+Collingwood",Adelaide Oval,
+Sat 25 Jul 12:00pm,"Fremantle
+v 
+West Coast",Optus Stadium,
+Sat 1 Aug 12:00pm,"Carlton
+v 
+Brisbane",Marvel Stadium,
+Sat 1 Aug 12:00pm,"Collingwood
+v 
+Geelong",MCG,
+Sat 1 Aug 12:00pm,"Essendon
+v 
+Adelaide",Marvel Stadium,
+Sat 1 Aug 12:00pm,"Gold Coast
+v 
+Melbourne",People First Stadium,
+Sat 1 Aug 12:00pm,"Hawthorn
+v 
+North Melbourne",UTAS Stadium,
+Sat 1 Aug 12:00pm,"Richmond
+v 
+West Coast",MCG,
+Sat 1 Aug 12:00pm,"St Kilda
+v 
+Sydney",Marvel Stadium,
+Sat 1 Aug 12:00pm,"Port Adelaide
+v 
+GWS",Adelaide Oval,
+Sat 1 Aug 12:00pm,"Fremantle
+v 
+Western Bulldogs",Optus Stadium,
+Sat 8 Aug 12:00pm,"Brisbane
+v 
+Hawthorn",Gabba,
+Sat 8 Aug 12:00pm,"Geelong
+v 
+Essendon",GMHBA Stadium,
+Sat 8 Aug 12:00pm,"GWS
+v 
+Gold Coast",Manuka Oval,
+Sat 8 Aug 12:00pm,"Melbourne
+v 
+Fremantle",MCG,
+Sat 8 Aug 12:00pm,"St Kilda
+v 
+Carlton",Marvel Stadium,
+Sat 8 Aug 12:00pm,"Sydney
+v 
+Port Adelaide",SCG,
+Sat 8 Aug 12:00pm,"Western Bulldogs
+v 
+North Melbourne",Marvel Stadium,
+Sat 8 Aug 12:00pm,"Adelaide
+v 
+Richmond",Adelaide Oval,
+Sat 8 Aug 12:00pm,"West Coast
+v 
+Collingwood",Optus Stadium,
+Sat 15 Aug 12:00pm,"Brisbane
+v 
+Gold Coast",Gabba,
+Sat 15 Aug 12:00pm,"Essendon
+v 
+Sydney",MCG,
+Sat 15 Aug 12:00pm,"GWS
+v 
+West Coast",ENGIE Stadium,
+Sat 15 Aug 12:00pm,"Hawthorn
+v 
+Collingwood",MCG,
+Sat 15 Aug 12:00pm,"North Melbourne
+v 
+Geelong",Marvel Stadium,
+Sat 15 Aug 12:00pm,"Richmond
+v 
+St Kilda",MCG,
+Sat 15 Aug 12:00pm,"Western Bulldogs
+v 
+Carlton",Marvel Stadium,
+Sat 15 Aug 12:00pm,"Port Adelaide
+v 
+Melbourne",Adelaide Oval,
+Sat 15 Aug 12:00pm,"Fremantle
+v 
+Adelaide",Optus Stadium,
+Sat 22 Aug 12:00pm,"Collingwood
+v 
+Brisbane",MCG,
+Sat 22 Aug 12:00pm,"Carlton
+v 
+Fremantle",Marvel Stadium,
+Sat 22 Aug 12:00pm,"Essendon
+v 
+Port Adelaide",Marvel Stadium,
+Sat 22 Aug 12:00pm,"Geelong
+v 
+Richmond",GMHBA Stadium,
+Sat 22 Aug 12:00pm,"Melbourne
+v 
+Western Bulldogs",MCG,
+Sat 22 Aug 12:00pm,"St Kilda
+v 
+Gold Coast",Marvel Stadium,
+Sat 22 Aug 12:00pm,"Sydney
+v 
+North Melbourne",SCG,
+Sat 22 Aug 12:00pm,"Adelaide
+v 
+GWS",Adelaide Oval,
+Sat 22 Aug 12:00pm,"West Coast
+v 
+Hawthorn",Optus Stadium,
